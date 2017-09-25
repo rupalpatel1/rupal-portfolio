@@ -1,0 +1,115 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #ffb7b5;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 28px;
+	padding: 20px;
+}
+
+h3{
+	font-size: 24px;
+	padding: 20px;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: lighter;
+	padding: 20px;
+	color: #666666;
+}
+
+p {
+	font-size: 26px;
+}
+
+.menu {
+	padding-left: 2.5%;
+	text-align: left;
+	font-size: 18px;
+}
+
+menu:hover {color: #e5e5e5;}
+
+hr {
+  width: 95%;
+  height: 3px;
+  background-color: #ffb7b5;
+  border: none;
+}
+
+a, u {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e5e5e5;
+	cursor: pointer;
+}
+
+.logo {
+	text-align: center;
+}
+.image {
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+img {
+	padding-left: 20px;
+}
+
+.intro {
+	background: url('./img/main-image.jpg') no-repeat;
+	background-size: cover;
+	text-align: center;
+	text-align: middle;
+  	padding: 40px;
+  	margin-top: 60px;
+}
+
+.intro .textbg {
+    background: rgba(255,255,255,0.8);
+    height: 400px;
+    padding: 40px;
+}
+
+ul {
+	list-style-position: inside;
+	font-size: 26px;
+	list-style-type: none;
+}
+
+#navlist li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+.background {
+	margin: 20px;
+}
+
+.experience {
+	padding: 5px;
+}
+
+.education {
+	background-color: #e5e5e5;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 2px;
+}
+
+.social {
+	text-align: center;
+	padding: 10px;
+}
